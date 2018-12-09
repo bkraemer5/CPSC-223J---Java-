@@ -8,7 +8,7 @@
 package damo2;
 
 import javax.swing.JOptionPane;
-/*
+
 public class TaxableIncome {
 
 	public static void main(String[] args) {
@@ -56,4 +56,3 @@ public class TaxableIncome {
 	}
 
 }
-*/
